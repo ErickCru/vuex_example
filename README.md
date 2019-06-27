@@ -1,4 +1,5 @@
-# vuex_example
+# Ejemplo de vuex
+Es un proyecto de ejemplo usando vuex
 
 ## Project setup
 ```
